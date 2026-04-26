@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Adyasha!!
-- 👀 I’m interested in web developing!
-- 🌱 I’m currently learning HTML/C
+- 👋 Hi, I’m Adyasha Rana
+- 👀 I’m interested in web developing and UI/UX designing!
+
   
 
 <!---
